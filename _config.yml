@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gaidos.png"
+  avatar           : "profile.png"
   name             : "Eric Gaidos"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Professor"
   location         : "Earth"
   employer         : "University of Hawaii at Mānoa"
   uri              : # URL
@@ -35,9 +35,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5258-6846"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/"
   researchgate     : # URL
   scopus           : # URL
 
