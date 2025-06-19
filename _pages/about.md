@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website, which is under construction.   Excuse our cosmic dust."
+title: "Welcome to my website, which is under construction.   Please excuse our cosmic dust."
 author_profile: true
 redirect_from: 
   - /about/
