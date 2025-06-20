@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * 2010--: Professor, Department of Earth Sciences, University of Hawai'i
-* 2006--20105: Associate Professor, ibid
+* 2006--2010: Associate Professor, ibid
 * 2001--2006: Assistant Professor, ibid
 * 1997--2001: Postdoctoral Researcher, Caltech Jet Propulsion Laboratory
 * 1996--1997: Postdoctoral Researcher, MIT Center for Space Research
