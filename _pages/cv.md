@@ -17,48 +17,17 @@ Education
   
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2010--: Professor, Department of Earth Sciences, University of Hawai'i
+* 2006--20105: Associate Professor, ibid
+* 2001--2006: Assistant Professor, ibid
+* 1997--2001: Postdoctoral Researcher, Caltech Jet Propulsion Laboratory
+* 1996--1997: Postdoctoral Researcher, MIT Center for Space Research
+* 1988--1989: Stagiare, Centre Nationale d'Etudes Spatiales
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Gauss Prize, Göttingen (2024)
+* Pfeiffer Profssor, University of Vienna (2021)
+* Fulbright Professor, University of Vienna (2016)
+* Pufendorf Chair, University of Lund (2011)
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
