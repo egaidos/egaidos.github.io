@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* Ph.D in Astrophysics, MIT 
+* M.S. in Aeronautical & Astronautical Engineering, MIT
+* B.S. in Applied Physics, Caltech
+  
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
