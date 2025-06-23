@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
-date: Alternate spring semesters
+#date: Alternate spring semesters
 location: "City, Country"
 ---
 
