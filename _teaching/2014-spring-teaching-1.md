@@ -2,7 +2,7 @@
 title: "ERTH/ASTR 707:  Exoplanet Astronomy"
 collection: teaching
 type: "Graduate Course"
-permalink: https://www.soest.hawaii.edu/GG/academics/syllabi-s25/erth707-s25-syl-gaidos.pdf
+permalink: "https://www.soest.hawaii.edu/GG/academics/syllabi-s25/erth707-s25-syl-gaidos.pdf"
 #venue: "University 1, Department"
 #date: Alternate spring semesters
 #location: "City, Country"
