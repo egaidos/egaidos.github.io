@@ -1,5 +1,5 @@
 ---
-title: "Voyage of the Vicariance: Earth and Life through Time"
+title: "ERTH 110: Voyage of the Vicariance: Earth and Life through Time"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
