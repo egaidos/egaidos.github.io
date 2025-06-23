@@ -1,6 +1,6 @@
-Here is where I'll describe my research.
+<bf>Current areas of research:</bf>
 <ul>
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
+  <li>Long-period temperate planets around M dwarf stars</li>
+  <li>Young planetary systems</li>
+  <li>Evolution and Diversification of Planet-Forming Disks</li>
 </ul>
