@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "ERTH/ASTR 707:  Exoplanet Astronomy"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+#venue: "University 1, Department"
+date: Alternate spring semesters
+#location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Three decades ago, the only planetary system we were certain of was our own.  Now we know of thousands of systems; their diversity challenges our theories of planet formation and evolution, provides required context for understanding the Solar System, and is the foundation upon which rigorous searches for habitats and life elsewhere in the Universe will be built. This course exposes students to the present state of knowledge of planetary systems using representative data at the field’s leading edge, introduce key theoretical concepts and analytic and numerical tools with broad
+application, and develops teamwork, presentation, and publishing skills.
 
 Heading 1
 ======
