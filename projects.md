@@ -1,12 +1,15 @@
-<bf>Current areas of research:</bf>
-<ul>
-  <li>Long-period temperate planets around M dwarf stars</li>
-  <li>Young planetary systems</li>
-  <li>Evolution and Diversification of Planet-Forming Disks</li>
-</ul>
-<section id="two">
-<!-- <h2>Recent Work</h2>
- --><div class="row">
+<body id="top">
+
+<!-- Header -->
+<header id="header">
+<h1><strong>Research Projects</strong><br/>/h1>
+</header>
+<!-- Main -->
+<div id="main">
+
+<section id="one">
+<!-- <h2>Research Projects</h2>
+--><div class="row">
  
 	 
 <article class="6u 12u$(xsmall) work-item">
@@ -25,4 +28,6 @@
 </article>
 							
 </div>
+</section>
+
 					</section>
