@@ -9,7 +9,6 @@
  --><div class="row">
 	 
 <article class="6u 12u$(xsmall) work-item">
-	
 <a href=./temperate.html class="image fit thumb"><img src="images/earth.jpg" alt="Long-Period Temperate Planets" /></a>
 <h3><a href=./temperate.html>Long-Period Temperate Planets</a></h3>
 </article>
