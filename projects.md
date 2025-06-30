@@ -4,3 +4,24 @@
   <li>Young planetary systems</li>
   <li>Evolution and Diversification of Planet-Forming Disks</li>
 </ul>
+<section id="two">
+<!-- 						<h2>Recent Work</h2>
+ -->						<div class="row">
+							<article class="6u 12u$(xsmall) work-item">
+								<a href=./kepler.html class="image fit thumb"><img src="images/pleiades.jpg" alt="Long-Period Temperate Planets" /></a>
+								<h3><a href=./kepler.html>Long-Period Temperate Planets</a></h3>
+							</article>
+							<article class="6u$ 12u$(xsmall) work-item">
+								<a href="./directimaging.html" class="image fit thumb"><img src="images/kernel.jpg" alt="Evolution and Diversification of Protoplanetary Disks" /></a>
+								<h3><a href = ./directimaging.html>Evolution and Diversification of Protoplanetary Disks</a></h3>
+							</article>
+							<article class="6u 12u$(xsmall) work-item">
+								<a href="./radio.html" class="image fit thumb"><img src="images/radio.jpg" alt="Young Planetary Systems" /></a>
+								<h3><a href=./young.html>Young Planetary Systems</a></h3>
+							</article>
+							<article class="6u$ 12u$(xsmall) work-item">
+								<a href="./about.html" class="image fit thumb"><img src="images/about.jpg" alt="About Me" /></a>
+								<h3><a href=./about.html>About Me</a></h3>
+							</article>
+						</div>
+					</section>
