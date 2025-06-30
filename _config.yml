@@ -25,9 +25,9 @@ author:
   avatar           : "profile_pic.jpg"
   name             : "Eric Gaidos"
   bio              : "Professor"
-  location         : "Earth"
-  employer         : "University of Hawaii"
-  uri              : # URL
+  location         : "University of Hawaii"
+  employer         : "Department of Earth Sciences"
+  uri              : "https://www.soest.hawaii.edu/earthsciences/"
   email            : "gaidos@hawaii.edu" 
 
   # Academic websites
