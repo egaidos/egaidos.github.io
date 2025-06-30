@@ -5,11 +5,11 @@
   <li>Evolution and Diversification of Planet-Forming Disks</li>
 </ul>
 <section id="two">
-<!-- 						<h2>Recent Work</h2>
- -->						<div class="row">
-							<article class="6u 12u$(xsmall) work-item">
-								<a href=./kepler.html class="image fit thumb"><img src="images/pleiades.jpg" alt="Long-Period Temperate Planets" /></a>
-								<h3><a href=./kepler.html>Long-Period Temperate Planets</a></h3>
+<!-- <h2>Recent Work</h2>
+ --><div class="row">
+<article class="6u 12u$(xsmall) work-item">
+<a href=./temperate.html class="image fit thumb"><img src="images/earth.jpg" alt="Long-Period Temperate Planets" /></a>
+								<h3><a href=./temperate.html>Long-Period Temperate Planets</a></h3>
 							</article>
 							<article class="6u$ 12u$(xsmall) work-item">
 								<a href="./directimaging.html" class="image fit thumb"><img src="images/kernel.jpg" alt="Evolution and Diversification of Protoplanetary Disks" /></a>
