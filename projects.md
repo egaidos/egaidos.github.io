@@ -2,7 +2,7 @@
 
 <!-- Header -->
 <header id="header">
-<h1><strong>Research Projects</strong><br/>/h1>
+<h1><strong>Research Projects</strong><br/></h1>
 </header>
 <!-- Main -->
 <div id="main">
@@ -28,6 +28,5 @@
 </article>
 							
 </div>
-</section>
 
-					</section>
+</section>
