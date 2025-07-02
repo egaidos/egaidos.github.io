@@ -17,19 +17,21 @@
  
 	 
 <article class="6u 12u$(xsmall) work-item">
-<a href="../temperate.html" class="image fit thumb"><img src="../images/earth.jpg" width=150 height=150 alt="Long-Period Temperate Planets" /></a>
 <h3><a href ="../temperate.html">Temperate Planets</a></h3>
+<a href="../temperate.html" class="image fit thumb"><img src="../images/earth.jpg" width=150 height=150 alt="Long-Period Temperate Planets" /></a>
 </article>
 
 							
 <article class="6u$ 12u$(xsmall) work-item">
-<a href="./disks.html" class="image fit thumb">
-<img src="../images/PDS70.jpg" with=150 height=150 alt="Evolution and Diversification of Protoplanetary Disks" /></a>
 <h3><a href ="./disks.html">Evolution and Diversification of Protoplanetary Disk</a></h3>
+<a href="./disks.html" class="image fit thumb">
+<img src="../images/PDS70.jpg" width=150 height=150 alt="Evolution and Diversification of Protoplanetary Disks" /></a>
+
 </article>
 
 <article class="6u 12u$(xsmall) work-item">
-<a href="./young.html" class="image fit thumb"><img src="./images/young.jpg" alt="Young Planetary Systems" /></a>
 <h3><a href="./young.html">Young Planetary Systems</a></h3>
+<a href="./young.html" class="image fit thumb"><img src="./images/young.jpg" alt="Young Planetary Systems" /></a>
+
 </article>
 							
