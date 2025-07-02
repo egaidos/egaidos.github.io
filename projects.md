@@ -30,8 +30,8 @@
 </article>
 
 <article class="6u 12u$(xsmall) work-item">
-<h3><a href="./young.html">Young Planetary Systems</a></h3>
-<a href="./young.html" class="image fit thumb"><img src="./images/young.jpg" alt="Young Planetary Systems" /></a>
+<h3><a href="../young.html">Young Planetary Systems</a></h3>
+<a href="../young.html" class="image fit thumb"><img src="../images/2M0437b.png" width=150 height=150 alt="Young Planetary Systems" /></a>
 
 </article>
 							
