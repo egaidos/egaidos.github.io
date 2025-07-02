@@ -18,12 +18,14 @@
 	 
 <article class="6u 12u$(xsmall) work-item">
 <a href="../temperate.html" class="image fit thumb"><img src="../images/earth.jpg" width=100 height=100 alt="Long-Period Temperate Planets" /></a>
+<h3><a href ="../temperate.html">Temperate Planets</a></h3>
+</article>
 
 							
 <article class="6u$ 12u$(xsmall) work-item">
 <a href="./disks.html" class="image fit thumb">
 <img src="./images/disks.jpg" alt="Evolution and Diversification of Protoplanetary Disks" /></a>
-<h3><a href ="./disks.html">Evolution and Diversification of Protoplanetary Disks</a></h3>
+<h3><a href ="./disks.html">Evolution and Diversification of Protoplanetary Disk</a></h3>
 </article>
 
 <article class="6u 12u$(xsmall) work-item">
