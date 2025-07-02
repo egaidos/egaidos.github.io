@@ -17,8 +17,8 @@
  
 	 
 <article class="6u 12u$(xsmall) work-item">
-<a href="./temperate.html" class="image fit thumb"><img src="../images/earth.jpg" width=100 height=100 alt="Long-Period Temperate Planets" /></a>
-<h3><a href="./temperate.html">Long-Period Temperate Planets</a><h3></h3>
+<a href="../temperate.html" class="image fit thumb"><img src="../images/earth.jpg" width=100 height=100 alt="Long-Period Temperate Planets" /></a>
+<h3><a href="../temperate.html">Long-Period Temperate Planets</a><h3></h3>
 </article>
 							
 <article class="6u$ 12u$(xsmall) work-item">
