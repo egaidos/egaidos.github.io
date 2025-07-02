@@ -24,7 +24,7 @@
 							
 <article class="6u$ 12u$(xsmall) work-item">
 <a href="./disks.html" class="image fit thumb">
-<img src="./images/disks.jpg" alt="Evolution and Diversification of Protoplanetary Disks" /></a>
+<img src="../images/PDS70.jpg" alt="Evolution and Diversification of Protoplanetary Disks" /></a>
 <h3><a href ="./disks.html">Evolution and Diversification of Protoplanetary Disk</a></h3>
 </article>
 
