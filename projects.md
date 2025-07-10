@@ -6,7 +6,7 @@
 
 <!-- Header -->
 <header id="header">
-<h1><strong>Research Projects</strong><br/></h1>
+<h2><strong>Research Projects</strong><br/></h2>
 </header>
 <!-- Main -->
 <div id="main">
