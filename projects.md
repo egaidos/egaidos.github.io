@@ -25,7 +25,7 @@
 
 		
 <article class="6u$ 12u$(xsmall) work-item">
-<img src="../images/webb-disk.jpg" width=150 height=150 alt="Earth thumb" class="image-left">
+<img src="../images/webb-disk.jpg" width=150 height=150 alt="JWST thumb" class="image-left">
 <p><b>Evolution and Diversification of Protoplanetary Disks: </b> What governs the evolution and diversification of protoplanetary disks and what are the implications for planetary systems?  What is responsible for the differences between co-eval disks in the same cluster, and observed trends with stellar mass?  This project focuses on the role of dissipation of the outer disk driven by stellar X-rays, and the attenudation of X-rays by structures in the inner disk. <i>Image credit: NASA/ESA</i></p>    
 </article>
 
@@ -36,11 +36,16 @@
 
 <article class="6u 12u$(xsmall) work-item">
 <img src="../images/2M0437b.png" width=150 height=150 alt="2M0437b thumb" class="image-left">
-<p><b>Young planets and their atmospheres:</b> Thanks to wide field surveys, i.e. TESS, we are discovering numerous planet around very young stars.<i>Image credit: NAOJ</i>i></p> 
+<p><b>Young planets and their atmospheres:</b> Thanks to wide field surveys, i.e. TESS, we are discovering numerous planet around very young stars.<i>Image credit: NAOJ</i></p> 
 </article>
 
 <article class="6u 12u$(xsmall) work-item">
 <img src="../images/earth.jpg" width=150 height=150 alt="Earth thumb" class="image-left">
 <p><b>Temperate Planets:</b> With time, transit surveys like TESS are discovering temperate sub-Neptune-size planets near or inside the ``habitable zones" of K and M stars where water can condense as liquid cloud droplets or even oceans.  These planets offer insight into the evolution of atmospheres of smaller, rocky planets.<i>Image credit: NASA</i></p>
+</article>
+
+<article class="6u 12u$(xsmall) work-item">
+<img src="../images/sdss-M67.jpg" width=150 height=150 alt="Earth thumb" class="image-left">
+<p><b>Ages of Very Low-Mass Stars:</b> Most known small or temperate, and potentially Earth-like planets that are high-priority targets for characterization orbit K and M dwarfs.  Knowing the ages of these systems to reconstruct planet evolution is critical, and for middle-aged K/M dwarfs, rotation-based ages (gyrochronology) are the most promising.  I am calibrating this technique using observations M dwarfs in clusters of known ages. <i>Image credit: SDSS</i></p>
 </article>
 					
