@@ -1,9 +1,9 @@
 <html>
 <head>
 <style>
-.image-right {
-  float: right;
-  margin-left: 15px; /* Adds some space between the image and the text */
+.image-left {
+  float: left;
+  margin-right: 15px; /* Adds some space between the image and the text */
 }
 </style>
 </head>
@@ -25,7 +25,7 @@
 <article class="6u 12u$(xsmall) work-item">
 <h3><a href ="../temperate.html">Temperate Planets</a></h3>
 <p>
-<img src="../images/earth.jpg" width=150 height=150 alt="Earth thumb" class="image-right">
+<img src="../images/earth.jpg" width=150 height=150 alt="Earth thumb" class="image-left">
 <p>This is a paragraph of text that will wrap around the image.  The image is floated to the right, so the text will flow around its left and bottom sides. This can be very useful for creating visually appealing layouts on your website.</p>
 <p>You can continue adding more text here, and it will keep wrapping around the image until it falls below the image's bottom edge.</p>
 
