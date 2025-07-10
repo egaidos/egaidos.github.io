@@ -28,7 +28,7 @@
 </article>
 		
 <article class="6u$ 12u$(xsmall) work-item">
-<img src="../images/PDS70.jpg" width=150 height=150 alt="Earth thumb" class="image-left">
+<img src="../images/webb-disk.jpg" width=150 height=150 alt="Earth thumb" class="image-left">
 <p><b>Evolution and Diversification of Protoplanetary Disks: </b> What governs the evolution and diversification of protoplanetary disks and what are the implications for planetary systems?  What is responsible for the differences between co-eval disks in the same cluster, and observed trends with stellar mass?  This project focuses on the role of dissipation of the outer disk driven by stellar X-rays, and the attenudation of X-rays by structures in the inner disk.</p>    
 </article>
 
