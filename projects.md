@@ -32,15 +32,7 @@
 </article>
 
 <article class="6u 12u$(xsmall) work-item">
-<h3><a href="../young.html">Young Planetary Systems</a></h3>
-<a href="../young.html" class="image fit thumb"><img src="../images/2M0437b.png" width=150 height=150 alt="Young Planetary Systems" /></a>
-
+<img src="../images/PDS70.jpg" width=150 height=150 alt="PDS70 thumb" class="image-left">
+<b>Chimeric Disks and the Late Stages of Planet Formation:</b> This is a critical but more poorly explored phase tens or even hundreds of Myr into the evolution of planetary systems, where most of the (inner) planet-forming disk has dissipated but planet formation may not be complete and there may be a substantial reservoir of small bodies.  These can be studied via their production of or association with dust that is can be detected either in emission or occultation.  These planetesimals serve as dynamical tracers and compositional indicators for larger, unseen objets.  
 </article>
-
-<article class="6u$ 12u$(xsmall) work-item">
-<h3><a href ="./mdwarfs.html">Debris Disks and the Late Stages of Planet Formation</a></h3>
-<a href="./mdwarfs.html" class="image fit thumb">
-<img src="../images/PDS70.jpg" width=150 height=150 alt="Ages and Activity of Very Low Mass Stars" /></a>
-
-</article>
-							
+					
