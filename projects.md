@@ -38,7 +38,7 @@ With time, transit surveys like TESS are discovering temperate sub-Neptune-size 
 </article>
 
 <article class="6u$ 12u$(xsmall) work-item">
-<h3><a href ="./mdwarfs.html">Ages and Activity of Very Low Mass Stars</a></h3>
+<h3><a href ="./mdwarfs.html">Debris Disks and the Late Stages of Planet Formation</a></h3>
 <a href="./mdwarfs.html" class="image fit thumb">
 <img src="../images/PDS70.jpg" width=150 height=150 alt="Ages and Activity of Very Low Mass Stars" /></a>
 
