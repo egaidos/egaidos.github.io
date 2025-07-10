@@ -45,7 +45,7 @@
 </article>
 
 <article class="6u 12u$(xsmall) work-item">
-<img src="../images/M67-SDSS.jpg" width=150 height=150 alt="Earth thumb" class="image-left">
-<p><b>Ages of Very Low-Mass Stars:</b> Most known small or temperate, and potentially Earth-like planets that are high-priority targets for characterization orbit K and M dwarfs.  Knowing the ages of these systems to reconstruct planet evolution is critical, and for middle-aged K/M dwarfs, rotation-based ages (gyrochronology) are the most promising.  I am calibrating this technique using observations M dwarfs in clusters of known ages. <i>Image credit: SDSS</i></p>
+<img src="../images/M67-SDSS.jpg" width=150 height=150 alt="M67 thumb" class="image-left">
+<p><b>Ages of Very Low-Mass Stars and their Planets:</b> Most known small or temperate, and potentially Earth-like planets that are high-priority targets for characterization orbit K and M dwarfs.  Knowing the ages of these systems to reconstruct planet evolution is critical, and for middle-aged K/M dwarfs, rotation-based ages (gyrochronology) are the most promising.  I am calibrating this technique using observations M dwarfs in clusters of known ages. <i>Image credit: SDSS</i></p>
 </article>
 					
