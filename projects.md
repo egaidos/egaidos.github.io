@@ -28,7 +28,7 @@ With time, transit surveys like TESS are discovering temperate sub-Neptune-size 
 <h3><a href ="./disks.html">Evolution and Diversification of Protoplanetary Disks</a></h3>
 <a href="./disks.html" class="image fit thumb">
 <img src="../images/PDS70.jpg" width=150 height=150 alt="Evolution and Diversification of Protoplanetary Disks" /></a>
-
+What governs the evolution and diversification of protoplanetary disks and what are the implications for planetary systems?  What is responsible for the differences between co-eval disks in the same cluster, and observed trends with stellar mass?  This project focuses on the role of dissipation of the outer disk driven by stellar X-rays, and the attenudation of X-rays by structures in the inner disk.    
 </article>
 
 <article class="6u 12u$(xsmall) work-item">
