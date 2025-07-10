@@ -1,7 +1,14 @@
 <html>
+<head>
+<style>
+.image-right {
+  float: right;
+  margin-left: 15px; /* Adds some space between the image and the text */
+}
+</style>
+</head>
 <link rel="icon" href="images/favicon.ico" type="image/x-icon" /> <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
-
 <body id="top">
 
 <!-- Header -->
