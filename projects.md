@@ -7,8 +7,8 @@
 }
 </style>
 </head>
-<link rel="icon" href="images/favicon.ico" type="image/x-icon" /> <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+#<link rel="icon" href="images/favicon.ico" type="image/x-icon" /> <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+#<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 <body id="top">
 
 <!-- Header -->
@@ -27,7 +27,6 @@
 <p><b>Temperate Planets:</b> With time, transit surveys like TESS are discovering temperate sub-Neptune-size planets near or inside the ``habitable zones" of K and M stars where water can condense as liquid cloud droplets or even oceans.  These planets offer insight into the evolution of atmospheres of smaller, rocky planets.</p>
 		
 <article class="6u$ 12u$(xsmall) work-item">
-<a href="./disks.html" class="image fit thumb">
 <img src="../images/PDS70.jpg" width=150 height=150 alt="Earth thumb" class="image-left">
 <b>Evolution and Diversification of Protoplanetary Disks: </b> What governs the evolution and diversification of protoplanetary disks and what are the implications for planetary systems?  What is responsible for the differences between co-eval disks in the same cluster, and observed trends with stellar mass?  This project focuses on the role of dissipation of the outer disk driven by stellar X-rays, and the attenudation of X-rays by structures in the inner disk.    
 </article>
