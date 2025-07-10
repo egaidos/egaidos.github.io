@@ -22,5 +22,9 @@ Prospective candidates should apply at https://www.rcuh.com/work/careers/ for po
 
 Casual summer hire (postdoctoral level)
 -------
-A position as a three-month summer hire at the postdoctoral level at the University of Hawaii will soon be open for applications.  The employment period will be June-August 2026 and cannot be extended.  Applicants must have a PhD in astronomy, astrophysics, planetary science, or closely related area.  The successful applicant will spend 50% of their effort on co-directing a summer visitor program on "Exploring Planetary Systems in the Era of Time-domain Astronomy" and 50% of their effort on their own research.  For inquiries, contant:  gaidos@hawaii.edu
+A position as a three-month summer hire at the postdoctoral level at the University of Hawaii will soon be open for applications.  The employment period will be June-August 2026 and cannot be extended.  Applicants must have a PhD in astronomy, astrophysics, planetary science, or closely related area.  The successful applicant will spend 50% of their effort on co-directing a summer visitor program on "Exploring Planetary Systems in the Era of Time-domain Astronomy" and 50% of their effort on their own research.  For inquiries, contact:  gaidos@hawaii.edu
+
+Graduate student Research Assistantships 
+-------
+One or more research assistantships are avialable for qualified students who are enrolled in the graduate programs of the Institute for Astronomy, Earth and Planetary Sciences, or Information and Computer Sciences Department at the University of Hawaii at Manoa.  Successful applicants will conduct research on a project within the domain of current research areas (see Research).  For inquiries, contact: gaidos@hawaii.edu
 
