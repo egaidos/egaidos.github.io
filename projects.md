@@ -26,13 +26,7 @@
 <h3><a href ="../temperate.html">Temperate Planets</a></h3>
 <p>
 <img src="../images/earth.jpg" width=150 height=150 alt="Earth thumb" class="image-left">
-<p>This is a paragraph of text that will wrap around the image.  The image is floated to the right, so the text will flow around its left and bottom sides. This can be very useful for creating visually appealing layouts on your website.</p>
-<p>You can continue adding more text here, and it will keep wrapping around the image until it falls below the image's bottom edge.</p>
-
- 
-<a href="../temperate.html" class="image fit thumb"><img src="../images/earth.jpg" width=150 height=150 alt="Long-Period Temperate Planets" /></a>
-With time, transit surveys like TESS are discovering temperate sub-Neptune-size planets near or inside the ``habitable zones" of K and M stars where water can condense as liquid cloud droplets or even oceans.  These planets offer insight into the evolution of atmospheres of smaller, rocky planets.
-</p> 
+<p>With time, transit surveys like TESS are discovering temperate sub-Neptune-size planets near or inside the ``habitable zones" of K and M stars where water can condense as liquid cloud droplets or even oceans.  These planets offer insight into the evolution of atmospheres of smaller, rocky planets.</p>
 </article>
 		
 <article class="6u$ 12u$(xsmall) work-item">
