@@ -19,9 +19,9 @@
 <article class="6u 12u$(xsmall) work-item">
 <h3><a href ="../temperate.html">Temperate Planets</a></h3>
 <a href="../temperate.html" class="image fit thumb"><img src="../images/earth.jpg" width=150 height=150 alt="Long-Period Temperate Planets" /></a>
-Transit surveys like TESS are discovering temperate sub-Neptune planets on longer period orbits around K and M stars, i.e. in the ``habitable zone".  
- 
 </article>
+Transit surveys like TESS are discovering temperate sub-Neptune planets on longer period orbits around K and M stars, i.e. in the ``habitable zone".
+ 
 
 							
 <article class="6u$ 12u$(xsmall) work-item">
