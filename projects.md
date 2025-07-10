@@ -25,6 +25,7 @@
 <article class="6u 12u$(xsmall) work-item">
 <img src="../images/earth.jpg" width=150 height=150 alt="Earth thumb" class="image-left">
 <p><b>Temperate Planets:</b> With time, transit surveys like TESS are discovering temperate sub-Neptune-size planets near or inside the ``habitable zones" of K and M stars where water can condense as liquid cloud droplets or even oceans.  These planets offer insight into the evolution of atmospheres of smaller, rocky planets.</p>
+</article>
 		
 <article class="6u$ 12u$(xsmall) work-item">
 <img src="../images/PDS70.jpg" width=150 height=150 alt="Earth thumb" class="image-left">
@@ -34,5 +35,10 @@
 <article class="6u 12u$(xsmall) work-item">
 <img src="../images/PDS70.jpg" width=150 height=150 alt="PDS70 thumb" class="image-left">
 <p><<b>Chimeric Disks and the Late Stages of Planet Formation:</b> This is a critical but more poorly explored phase tens or even hundreds of Myr into the evolution of planetary systems, where most of the (inner) planet-forming disk has dissipated but planet formation may not be complete and there may be a substantial reservoir of small bodies.  These can be studied via their production of or association with dust that is can be detected either in emission or occultation.  These planetesimals serve as dynamical tracers and compositional indicators for larger, unseen objets.</p> 
+</article>
+
+<article class="6u 12u$(xsmall) work-item">
+<img src="../images/2M0437b.png" width=150 height=150 alt="2M0437b thumb" class="image-left">
+<p><<b>Young planets and their atmospheres:</b> Thanks to wide field surveys, i.e. TESS, we are discovering numerous planet around very young stars.</p> 
 </article>
 					
