@@ -36,9 +36,9 @@
 
 <article class="6u 12u$(xsmall) work-item">
 <img src="../images/2M0437b.png" width=150 height=150 alt="2M0437b thumb" class="image-left">
-<p><b>Young planets and their atmospheres:</b> Thanks to wide field surveys, i.e. TESS, we are discovering numerous planet around very young stars.<i>Image credit: NAOJ</i></p> 
+<p><b>Young planets and their atmospheres:</b> Thanks to wide field surveys, i.e. TESS, we are discovering numerous planet around very young stars.<i>Image credit: NAOJ </i></p> 
 </article>
-
+<br>
 <article class="6u 12u$(xsmall) work-item">
 <img src="../images/earth.jpg" width=150 height=150 alt="Earth thumb" class="image-left">
 <p><b>Temperate Planets:</b> With time, transit surveys like TESS are discovering temperate sub-Neptune-size planets near or inside the ``habitable zones" of K and M stars where water can condense as liquid cloud droplets or even oceans.  These planets offer insight into the evolution of atmospheres of smaller, rocky planets.<i>Image credit: NASA</i></p>
