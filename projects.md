@@ -24,10 +24,8 @@
 	 
 <article class="6u 12u$(xsmall) work-item">
 <h3><a href ="../temperate.html">Temperate Planets</a></h3>
-<p>
 <img src="../images/earth.jpg" width=150 height=150 alt="Earth thumb" class="image-left">
 <p>With time, transit surveys like TESS are discovering temperate sub-Neptune-size planets near or inside the ``habitable zones" of K and M stars where water can condense as liquid cloud droplets or even oceans.  These planets offer insight into the evolution of atmospheres of smaller, rocky planets.</p>
-</article>
 		
 <article class="6u$ 12u$(xsmall) work-item">
 <h3><a href ="./disks.html">Evolution and Diversification of Protoplanetary Disks</a></h3>
