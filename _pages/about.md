@@ -12,9 +12,9 @@ I am an astronomer, planetary scientist, and geobiologist at the University of H
 <br>
 <b>Useful links:</b>
 <br>
-<a href="https://ui.adsabs.harvard.edu/classic-form">NASA ADS</a> &nbsp; &nbsp;
-<a href="https://simbad.u-strasbg.fr/simbad/sim-fbasic">SIMBAD</a> &nbsp; &nbsp;
-<a href="https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html">STScI MAST Portal</a> &nbsp; &nbsp;
-<a href="https://heasarc.gsfc.nasa.gov/">NASA HEASARC</a> &nbsp; &nbsp;
-<a href="https://heasarc.gsfc.nasa.gov/">LCOGT Archive</a> &nbsp; &nbsp;
-<a href="https://archive.lco.global/">LCOGT Archive</a> &nbsp; &nbsp;
+<a href="https://ui.adsabs.harvard.edu/classic-form" target="_blank">NASA ADS</a> &nbsp; &nbsp;
+<a href="https://simbad.u-strasbg.fr/simbad/sim-fbasic" target="_blank">SIMBAD</a> &nbsp; &nbsp;
+<a href="https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html" target="_blank">STScI MAST Portal</a> &nbsp; &nbsp;
+<a href="https://heasarc.gsfc.nasa.gov/" target="_blank">NASA HEASARC</a> &nbsp; &nbsp;
+<a href="https://heasarc.gsfc.nasa.gov/" target="_blank">LCOGT Archive</a> &nbsp; &nbsp;
+<a href="https://archive.lco.global/" target="_blank">LCOGT Archive</a> &nbsp; &nbsp;
