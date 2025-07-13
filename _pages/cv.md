@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Astrophysics, MIT 
+* Ph.D in Physics (Astrophysics), MIT 
 * M.S. in Aeronautical & Astronautical Engineering, MIT
 * B.S. in Applied Physics, Caltech
   
-Work experience
+Experience
 ======
 * 2010--: Professor, Department of Earth Sciences, University of Hawai'i
 * 2006--2010: Associate Professor, ibid
@@ -24,10 +24,11 @@ Work experience
 * 1996--1997: Postdoctoral Researcher, MIT Center for Space Research
 * 1988--1989: Stagiare, Centre Nationale d'Etudes Spatiales
   
-Awards
+Recognition
 ======
+* Kepler Lecturer, University of Oslo (2025)
 * Gauss Prize, Göttingen (2024)
 * Pfeiffer Profssor, University of Vienna (2021)
 * Fulbright Professor, University of Vienna (2016)
-* Pufendorf Chair, University of Lund (2011)
+* Pufendorf Chair of Astrobiology, University of Lund (2011)
   
