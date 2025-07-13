@@ -20,7 +20,7 @@
 --><div class="row">
 	 
 <article class="6u$ 12u$(xsmall) work-item">
-<p><b>ERTH 110: Voyage of the Vicariance: Earth and Life through Time </b></p>
+<p><b>ERTH 110: Voyage of the Vicariance: Earth & Life through Time </b></p>
 <img src="../images/vicariance_map.png" width=250 height=250 alt="Vicariance map" class="image-left">
 <p>Exploration of Earth history via an imaginary sailing voyage around the world and back in time to Earth’s formation and the origin of life. Introduces fundamental concepts in geology, paleontology, living systems, and evolutionary biology. </p>    
 </article>
