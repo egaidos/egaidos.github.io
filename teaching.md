@@ -25,7 +25,7 @@
 <p>Exploration of Earth history via an imaginary sailing voyage around the world and back in time to Earth’s formation and the origin of life. Introduces fundamental concepts in geology, paleontology, living systems, and evolutionary biology. </p>    
 </article>
 <br>
-
+<p></p>
 <article class="6u$ 12u$(xsmall) work-item">
 <p><b><a href="https://catalog.manoa.hawaii.edu/preview_course_nopop.php?catoid=2&coid=50814">ERTH/ASTR 707: Exoplanet Astronomy</a></b></p>
 <img src="../images/Kepler-186.jpg" width=250 height=250 alt="Kepler-186" class="image-left">
