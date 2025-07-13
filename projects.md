@@ -29,7 +29,7 @@
 
 <article class="6u 12u$(xsmall) work-item">
 <img src="../images/PDS70.jpg" width=150 height=150 alt="PDS70 thumb" class="image-left">
-<p><b>Chimeric Disks and the Late Stages of Planet Formation:</b> This is a critical but more poorly explored phase tens or even hundreds of Myr into the evolution of planetary systems, where most of the (inner) planet-forming disk has dissipated but planet formation may not be complete and there may be a substantial reservoir of small bodies.  These can be studied via their production of or association with dust that is can be detected either in emission or occultation.  These planetesimals serve as dynamical tracers and compositional indicators for larger, unseen objets.<i>Image credit: NSF/ESO</i></p> 
+<p><b>Chimeric Disks and the Late Stages of Planet Formation:</b> What happens in emerging planetary systems after the natal planetary disk has largely dissipated?  In this poorly explored phase of planet formation, tens or even hundreds of Myr after the initial protostellar pase, a residual reservoir of planetesimals could interact with growing protoplanets.  Dust and gas in such disks could be of both primoridal or secondary origin and these ``chimeric" disks have both T Tauri- and debris disk features.  This project is identifying and studying such systems, in particular by the phootometric and spectroscopic  signatures cause by dust and gas occulting the host star.<i>Image credit: NSF/ESO</i></p> 
 </article>
 
 <article class="6u 12u$(xsmall) work-item">
