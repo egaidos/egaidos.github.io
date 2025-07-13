@@ -16,5 +16,5 @@ I am an astronomer, planetary scientist, and geobiologist at the University of H
 <a href="https://simbad.u-strasbg.fr/simbad/sim-fbasic" target="_blank">SIMBAD</a> &nbsp; &nbsp;
 <a href="https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html" target="_blank">STScI MAST Portal</a> &nbsp; &nbsp;
 <a href="https://heasarc.gsfc.nasa.gov/" target="_blank">NASA HEASARC</a> &nbsp; &nbsp;
-<a href="https://heasarc.gsfc.nasa.gov/" target="_blank">LCOGT Archive</a> &nbsp; &nbsp;
+<a href="https://astro.ing.iac.es/staralt/ target="_blank">Object Visibility</a> &nbsp; &nbsp;
 <a href="https://archive.lco.global/" target="_blank">LCOGT Archive</a> &nbsp; &nbsp;
