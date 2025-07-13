@@ -8,6 +8,13 @@
 </style>
 </head>
 
+<!-- Header -->
+<header id="header">
+<h2><strong>Courses</strong><br/></h2>
+</header>
+<!-- Main -->
+<div id="main">
+
 <section id="one">
 <!-- <h2>Courses</h2>
 --><div class="row">
