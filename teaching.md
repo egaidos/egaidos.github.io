@@ -19,7 +19,7 @@ Exploration of Earth history via an imaginary sailing voyage around the world an
 </article>
 
 <article class="6u$ 12u$(xsmall) work-item">
-<img src="../images/Kepler-186.jpg" width=150 height=150 alt="JWST thumb" class="image-left">
+<img src="../images/Kepler-186.jpg" width=300 height=300 alt="JWST thumb" class="image-left">
 <p><b>ERTH/ASTR 707: Exoplanet Astronomy</b>
 Three decades ago, the only planetary system we were certain of was our own. Now we know of thousands of systems; their diversity challenges our theories of planet formation and evolution, provides required context for understanding the Solar System, and is the foundation upon which rigorous searches for habitats and life elsewhere in the Universe will be built. This course exposes students to the present state of knowledge of planetary systems using representative data at the field’s leading edge, introduce key theoretical concepts and analytic and numerical tools with broad application, and develops teamwork, presentation, and publishing skills.</p>
 </article>
