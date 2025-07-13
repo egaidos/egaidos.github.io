@@ -34,7 +34,7 @@
 
 <article class="6u 12u$(xsmall) work-item">
 <img src="../images/2M0437b.png" width=150 height=150 alt="2M0437b thumb" class="image-left">
-<p><b>Young planets and Their Atmospheres:</b> What are the antecedents of the numerous small planets discovered by Kepler around middle-aged stars?  What are the compositions of their atmospheres, how do they evolve, and what are the implications for planetary chemistry, including prebiotic chemistry?   The <i>TESS</i>i> all sky survey is discovering planets saround very young stars.  The project is refining the statistics of these objects and studying atmospheric escape using ground- and space-based spectroscopy.<i>Image credit: NAOJ </i></p> 
+<p><b>Young planets and Their Atmospheres:</b> What are the antecedents of the numerous small planets discovered by Kepler around middle-aged stars?  What are the compositions of their atmospheres, how do they evolve, and what are the implications for planetary chemistry, including prebiotic chemistry?   The <i>TESS</i> all sky survey is discovering planets saround very young stars.  The project is refining the statistics of these objects and studying atmospheric escape using ground- and space-based spectroscopy.<i>Image credit: NAOJ </i></p> 
 </article>
 
 <article class="6u 12u$(xsmall) work-item">
