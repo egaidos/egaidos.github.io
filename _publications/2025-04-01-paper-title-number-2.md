@@ -2,10 +2,10 @@
 title: "Water-cooled (sub)-Neptunes get better gas mileage"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-04-01-paper-title-number-2.md
+permalink: https://doi.org/10.1051/0004-6361/202553667
 date: 2025-04-01
 venue: 'Astronomy & Astrophysics'
-paperurl: 'https://ui.adsabs.harvard.edu/link_gateway/2025A%26A...696L..13Y/PUB_PDF'
+paperurl: 'https://doi.org/10.1051/0004-6361/202553667'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Yoshida, T. and Gaidos, E. (2025) <i>Astronomy & Astrophysics</i> 696, L13.'
 ---
