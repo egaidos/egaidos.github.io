@@ -26,7 +26,7 @@
 </article>
 <br>
 <article class="6u$ 12u$(xsmall) work-item">
-<p><b>ERTH/ASTR 707: Exoplanet Astronomy</b></p>
+<p><b><a href="https://catalog.manoa.hawaii.edu/preview_course_nopop.php?catoid=2&coid=50814">ERTH/ASTR 707: Exoplanet Astronomy</a></b></p>
 <img src="../images/Kepler-186.jpg" width=250 height=250 alt="Kepler-186" class="image-left">
 <p>Three decades ago, the only planetary system we were certain of was our own. Now we know of thousands of systems; their diversity challenges our theories of planet formation and evolution, provides required context for understanding the Solar System, and is the foundation upon which rigorous searches for habitats and life elsewhere in the Universe will be built. This course exposes students to the present state of knowledge of planetary systems using representative data at the field’s leading edge, introduce key theoretical concepts and analytic and numerical tools with broad application, and develops teamwork, presentation, and publishing skills.</p>
 </article>
