@@ -39,11 +39,11 @@
 
 <article class="6u 12u$(xsmall) work-item">
 <img src="../images/earth.jpg" width=150 height=150 alt="Earth thumb" class="image-left">
-<p><b>Temperate Planets:</b> With time, transit surveys like TESS are discovering temperate sub-Neptune-size planets near or inside the ``habitable zones" of K and M stars where water can condense as liquid cloud droplets or even oceans.  These planets offer insight into the evolution of atmospheres of smaller, rocky planets.  With collaborators I am working on detection of long-period sub-Neptunes and modeling of their atmospheres.<i>Image credit: NASA</i></p>
+<p><b>Temperate Planets:</b> With time, transit surveys like TESS are discovering temperate sub-Neptune-size planets near or inside the ``habitable zones" of K and M stars where water can condense as liquid cloud droplets or even oceans.  These planets offer insight into the evolution of atmospheres of smaller, rocky planets.  This project involves the detection and statistical characterization of long-period sub-Neptunes, and modeling of their atmospheres.<i>Image credit: NASA</i></p>
 </article>
 
 <article class="6u 12u$(xsmall) work-item">
 <img src="../images/M67-SDSS.jpg" width=150 height=150 alt="M67 thumb" class="image-left">
-<p><b>Ages of Very Low-Mass Stars and their Planets:</b> Most known small or temperate, and potentially Earth-like planets that are high-priority targets for characterization orbit K and M dwarfs.  Knowing the ages of these systems to reconstruct planet evolution is critical, and for middle-aged K/M dwarfs, rotation-based ages (gyrochronology) is the most promising method.  I am improving the calibration of this technique using observations of cool stars in clusters of known ages. <i>Image credit: SDSS</i></p>
+<p><b>Ages of Very Low-Mass Stars and their Planets:</b> Most known small or temperate, and potentially Earth-like planets that are high-priority targets for characterization orbit K and M dwarfs.  Knowing the ages of these systems to reconstruct planet evolution is critical, and for middle-aged K/M dwarfs, rotation-based ages (gyrochronology) is the most promising method.  This project is improving the calibration of this technique using observations of stellar rotation in open clusters of known ages. <i>Image credit: SDSS</i></p>
 </article>
 					
