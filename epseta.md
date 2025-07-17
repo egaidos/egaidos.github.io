@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 <body id="top">
 
-<img src="../images/epseta.jpg" width=500 height=500 alt="logo" class="image-left">
+<img src="../images/epseta.jpg" width=520 height=520 alt="logo" class="image-left">
 <!-- Header -->
 
 <!-- Main -->
@@ -20,9 +20,9 @@
 <section id="one">
 <!-- <h2>Research Projects</h2>
 --><div class="row">
-<p>Planetary systems and the disks from which they emerge can be highly dynamic environments, with variability and stochastic or episodic events caused by dusty structures in protoplanetary and debris disks, disintegrating planetesimals, exocomets, colliding proto-planets, planetary rings, and evaporating planets.  Studies in the time domain can provide insight into both the early and late stages of planetary evolution, complementing the revolutionary advances from transiting planet surveys.  As sky surveys advance in sensitivity and duration, they can detect more infrequent, distant, and energetic events. Notable among these are the recently completed Gaia mission, the ongoing TESS mission, the ground-based ASAS-SN and ATLAS, and the upcoming LSST. As surveys improve in precision and baseline, challenges in the discovery, follow-up, characterization, and theoretical modeling of these transient and variable phenomena call for coordinated community effort.</p> 
+<p>Planetary systems and the disks from which they emerge can be highly dynamic environments, with variability and stochastic or episodic events caused by dusty structures in protoplanetary and debris disks, disintegrating planetesimals, exocomets, colliding proto-planets, planetary rings, and evaporating planets.  Studies in the time domain can provide insight into both the early and late stages of planetary evolution, complementing the revolutionary advances from transiting planet surveys.  As sky surveys advance in sensitivity and duration, they can detect more infrequent, distant, and energetic events. Notable among these are the recently completed Gaia mission, the ongoing <a href="tess.mit.edu">TESS mission</a>, the ground-based <a href="https://www.astronomy.ohio-state.edu/asassn/">ASAS-SN</a> and <a href="https://atlas.fallingstar.com/">ATLAS</a>, and the upcoming <a href="https://www.lsst.org/">LSST</a>. As surveys improve in precision and baseline, challenges in the discovery, follow-up, characterization, and theoretical modeling of these transient and variable phenomena call for coordinated community effort.</p> 
   
-<p>We invite you to apply to join colleagues with shared interests in transient and variable phenomena in protoplanetary/debris disks and planetary systems for a 2-4 week visit to the University of Hawaii at Manoa’s Institute for Astronomy in summer 2026.  This program will be timely given the expected advent of Data Preview 2 from LSST, but it will also be a venue for discussion and research on a wide range of topics, including but not limited to:</p>
+<p>We invite you to apply to join colleagues with shared interests in transient and variable phenomena in protoplanetary/debris disks and planetary systems for a 2-4 week visit to the University of Hawaii at Manoa’s <a href="www.ifa.hawaii.edu">Institute for Astronomy</a> in summer 2026.  This program will be timely given the expected advent of Data Preview 2 from LSST, but it will also be a venue for discussion and research on a wide range of topics, including but not limited to:</p>
 
 <ul>
 <li>Identification of anomalies in archival and real-time data</li>
@@ -41,4 +41,4 @@
 
 <p>The program will be lightly structured, with short presentations in the morning and discussion in the afternoon, with much of the day available for self-organized activities.  Each participant is expected to give at least one short talk.  Groups of co-participants are encouraged to set their own collaborative goals, e.g. analyses of survey data, development of tools, or writing of follow-up observing proposals.</p>
 
-<p>Applicants should have a PhD or at least an approved doctoral dissertation topic: we aim to admit a balanced mix of junior and senior researchers.  Proposed visits should be between 2 and 4 weeks in duration between June 1 and August 28.  Selected applicants will receive a $700 air travel allowance and a $800 per week stipend.   There are no fees for participating.  To apply, fill out the form here:</p>
+<p>Applicants should have a PhD or at least an approved doctoral dissertation topic: we aim to admit a balanced mix of junior and senior researchers.  Proposed visits should be between 2 and 4 weeks in duration between June 1 and August 28.  Selected applicants will receive a $700 air travel allowance and a $800 per week stipend.   There is no fee for participating.  To apply, fill out the form here:</p>
