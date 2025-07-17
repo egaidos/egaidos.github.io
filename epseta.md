@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 <body id="top">
 
-<img src="../images/epseta.jpg" width=200 height=200 alt="PDS70 thumb" class="image-left">
+<img src="../images/epseta.jpg" width=200 height=200 alt="logo" class="image-left">
 <!-- Header -->
 <header id="header">
 <h1><strong>Exploring Planetary Systems in the Era of Time-domain Astronomy</strong><br/></h1>
@@ -25,18 +25,20 @@
 Planetary systems and the disks from which they emerge can be highly dynamic environments, with variability and stochastic or episodic events caused by dusty structures in protoplanetary and debris disks, disintegrating planetesimals, exocomets, colliding proto-planets, planetary rings, and evaporating planets.  Studies in the time domain can provide insight into both the early and late stages of planetary evolution, complementing the revolutionary advances from transiting planet surveys.  As sky surveys advance in sensitivity and duration, they can detect more infrequent, distant, and energetic events. Notable among these are the recently completed Gaia mission, the ongoing TESS mission, the ground-based ASAS-SN and ATLAS, and the upcoming LSST. As surveys improve in precision and baseline, challenges in the discovery, follow-up, characterization, and theoretical modeling of these transient and variable phenomena call for coordinated community effort. 
 We invite you to apply to join colleagues with shared interests in transient and variable phenomena in protoplanetary/debris disks and planetary systems for a 2-4 week visit to the University of Hawaii at Manoa’s Institute for Astronomy in summer 2026.  This program will be timely given the expected advent of Data Preview 2 from LSST, but it will also be a venue for discussion and research on a wide range of topics, including but not limited to:
 
-Identification of anomalies in archival and real-time data
-Real time event identification and brokerage
-Analysis tools and discovery frameworks
-Follow-up opportunities with ToO from the ground and space
-``Dipper” T Tauri stars
-Exocomets
-Planetesimal/asteroid collisions
-Occulting disks and rings
-Disk shadows 
-Evaporating planets
-Interstellar objects
-Citizen science
+<ul>
+<li>Identification of anomalies in archival and real-time data</li>
+<li>Real time event identification and brokerage</li>
+<li>Analysis tools and discovery frameworks</li>
+<li>Follow-up opportunities with ToO from the ground and space</li>
+<li>"Dipper” T Tauri stars</li>
+<li>Exocomets/li>
+<li>Planetesimal/asteroid collisions</li>
+<li>Occulting disks and rings</li>
+<li>Disk shadows </li>
+<li>Evaporating planets</li>
+<li>Interstellar objects</li>
+<li>Citizen science</li>
+</ul>
 
 The program will be lightly structured, with short presentations in the morning and discussion in the afternoon, with much of the day available for self-organized activities.  Each participant is expected to give at least one short talk.  Groups of co-participants are encouraged to set their own collaborative goals, e.g. analyses of survey data, development of tools, or writing of follow-up observing proposals.
 
