@@ -13,7 +13,7 @@
 
 <!-- Header -->
 <header id="header">
-<h2><strong>Research Projects</strong><br/></h2>
+<h1><strong>Exploring Planetary Systems in the Era of Time<-domain Astronomy/strong><br/></h1>
 </header>
 <!-- Main -->
 <div id="main">
