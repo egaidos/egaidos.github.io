@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 <body id="top">
 
-<img src="../images/epseta.jpg" width=300 height=300 alt="logo" class="image-left">
+<img src="../images/epseta.jpg" width=400 height=400 alt="logo" class="image-left">
 <!-- Header -->
 <header id="header">
 <h1><strong>Exploring Planetary Systems in the Era of Time-domain Astronomy</strong><br/></h1>
@@ -31,7 +31,7 @@ We invite you to apply to join colleagues with shared interests in transient and
 <li>Analysis tools and discovery frameworks</li>
 <li>Follow-up opportunities with ToO from the ground and space</li>
 <li>"Dipper” T Tauri stars</li>
-<li>Exocomets/li>
+<li>Exocomets</li>
 <li>Planetesimal/asteroid collisions</li>
 <li>Occulting disks and rings</li>
 <li>Disk shadows </li>
