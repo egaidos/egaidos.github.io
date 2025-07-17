@@ -28,7 +28,7 @@
 <li>Identification of anomalies in archival and real-time data</li>
 <li>Real time event identification and brokerage</li>
 <li>Analysis tools and discovery frameworks</li>
-<li>Follow-up opportunities with ToO from the ground and space</li>
+<li>Follow-up opportunities with ToO</li>
 <li>"Dipper” T Tauri stars</li>
 <li>Exocomets</li>
 <li>Planetesimal/asteroid collisions</li>
