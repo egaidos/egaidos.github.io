@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 <body id="top">
 
-<img src="../images/epseta.jpg" width=200 height=200 alt="logo" class="image-left">
+<img src="../images/epseta.jpg" width=300 height=300 alt="logo" class="image-left">
 <!-- Header -->
 <header id="header">
 <h1><strong>Exploring Planetary Systems in the Era of Time-domain Astronomy</strong><br/></h1>
