@@ -36,8 +36,7 @@
 <p></p>
 <article class="6u$ 12u$(xsmall) work-item">
 <p><b><a href="https://manoa.hawaii.edu/catalog-2024-25/courses/gg-erth-616-how-to-write-a-scientific-paper-3/">ERTH 616: Scientific Writing</a></b></p>
-<img src="../images/Kepler-186.jpg" width=250 height=250 alt="Kepler-186" class="image-left">
-<p>This course was an opportunity for graduate students to learning technical and stylistic aspects of writing a manuscript for a peer-reviewed publication.  It was offerred six times in two different modes.  In the first mode, the student and instructor collaborated on a writing a review paper on a topic of mutual interest.  The four reviews, all published are:  <a href="https://www.liebertpub.com/doi/10.1089/ast.2005.5.100">Beyond the Principle of Plentitude: A Review of Terrestrial Planet Habitability</a></p>
+<p>This course was an opportunity for graduate students to learning technical and stylistic aspects of writing a manuscript for a peer-reviewed publication.  It was offerred six times in two different modes.  In the first mode, the student and instructor collaborated on a writing a review paper on a topic of mutual interest.  The four reviews, all published are:  <a href="https://www.liebertpub.com/doi/10.1089/ast.2005.5.100">Beyond the Principle of Plentitude: A Review of Terrestrial Planet Habitability (Spring 2004)</a></p> &nbsp; <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1472-4669.2007.00125.x">The Precambrian Emergence of Animal Life (Spring 2006)</a>&nbsp;<a href='https://ui.adsabs.harvard.edu/abs/2013SSRv..180...71S/abstract">Below One Earth: The Detection, Formation, and Properties of Subterrestrial Worlds (Spring 2013)</a>&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S000928192030146X">Lava Worlds: from Early Earth to Exoplanets (Spring 2020)</a>.  
 </article>
 
 
