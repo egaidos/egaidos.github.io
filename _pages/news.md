@@ -9,9 +9,13 @@ author_profile: true
 
 {% include base_path %}
 
+Summer 2026 Program: "Exploring Planetary Systems in the Era of Time-domain Astronomy"
+======
+Announcing a program on time-domain astronomy of planetary systems at the Institute for Astronomy at Manoa in Hawaii during June 1-August 28, 2026.  More information and a link to the application form can be found [here](https://egaidos.github.io/epseta26.html).  
+Applicants must have a PhD or an approved dissertation topic (ABD).  Review of applications will begin November 24. 
+
 Opportunities
 ======
-
 
 Short-term postdoctoral research in time-domain astronomy of planetary systems
 ------
