@@ -16,7 +16,7 @@
 <div id="main">
 
 <section id="one">
-<!-- <h2>Courses</h2>
+<!-- <h2>Instructional Portfolio</h2>
 --><div class="row">
 	 
 <article class="6u$ 12u$(xsmall) work-item">
