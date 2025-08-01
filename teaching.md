@@ -10,13 +10,13 @@
 
 <!-- Header -->
 <header id="header">
-<h2><strong>Courses</strong><br/></h2>
+<h2><strong>Instructional Portfolio</strong><br/></h2>
 </header>
 <!-- Main -->
 <div id="main">
 
 <section id="one">
-<!-- <h2>Instructional Portfolio</h2>
+<!-- <h2>Courses I Teach:</h2>
 --><div class="row">
 	 
 <article class="6u$ 12u$(xsmall) work-item">
